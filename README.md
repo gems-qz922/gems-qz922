@@ -6,6 +6,6 @@
  
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gems-qz922&theme=dark&background=000000)](https://git.io/streak-stats)
  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gems-qz922&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gems-qz922&show_icons=true&theme=tokoyonight)
 
 </h1>
