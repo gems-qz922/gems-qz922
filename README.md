@@ -5,8 +5,5 @@
 <!--  [![Visitors](https://api.visitorbadge.io/api/daily?path=gems-qz922%2Fgems-qz922&label=Braincell%20Count!!!&labelColor=%23ffb61e&countColor=%23ffdc4c&style=flat&labelStyle=upper)](https://visitorbadge.io/ "Probably...") -->
  ![](https://komarev.com/ghpvc/?username=gems-qz922&color=yellow&label=Braincell+Collected)
  
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gems-qz922&theme=dark&background=000000)](https://git.io/streak-stats)
- -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gems-qz922&show_icons=true&theme=tokyonight)
 
 </h1>
