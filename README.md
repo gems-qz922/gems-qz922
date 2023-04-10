@@ -1,9 +1,15 @@
-<h1 align="left">
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/qihe-zhou-bab81b14a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+ </div>
+ <img src="https://komarev.com/ghpvc/?username=gems-qz922&style=flat-square&color=blue" alt=""/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E08A&width=435&lines=Searching+for+braincells...)](https://git.io/typing-svg '"It is widely believed that all orange cats share one communal brain cell" -Unknown')
 
-<!--  [![Visitors](https://api.visitorbadge.io/api/daily?path=gems-qz922%2Fgems-qz922&label=Braincell%20Count!!!&labelColor=%23ffb61e&countColor=%23ffdc4c&style=flat&labelStyle=upper)](https://visitorbadge.io/ "Probably...") -->
- ![](https://komarev.com/ghpvc/?username=gems-qz922&color=yellow&label=Braincell+Collected)
- 
-
+<h1 align='center'>
+ hey there
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
